@@ -15,16 +15,17 @@ var Balas = [];
 var SuperBalas = [];
 var BalasEnemigas = [];
 //Arreglo de textos
-var TextoCreditos0 = ["SANTIAGO JULIAN BARRERA REYES",
-                      "MARIA DEL PILAR ZAVALA GALINDO",
+var TextoCreditos0 = [
                       "EVELIO MARCOS JOSUÉ CRUZ SOLIZ",
-                      "LYNDA ESTEFANY GABRIELA MORALES VELASQUEZ",
-                      "ERICK DANIEL RAMIREZ DIVAS",
+                      "SANTIAGO JULIAN BARRERA REYES",
+                      "JEFFREY OBED HURTARTE REVOLORIO",
+                      "ELÍAS ABRAHAM VASQUEZ SOTO",
+                      "MARIA DEL PILAR ZAVALA GALINDO",
                       "ESTUARDO BENJAMIN VASQUEZ LOPEZ",
+                      "ERICK DANIEL RAMIREZ DIVAS",
+                      "LYNDA ESTEFANY GABRIELA MORALES VELASQUEZ",
                       "DANILO ARTURO GIRÓN PANIAGUA" ,
-                      "MARVIN STEVEN VALLE ORTIZ",
-                      "JEFFEY OBED HURTARTE REVOLORIO",
-                      "ELIAS ABRAHAM VASQUEZ SOTO"           
+                      "MARVIN STEVEN VALLE ORTIZ"
 ];
 var TextoCreditos = [];
 //Variables de uso general
